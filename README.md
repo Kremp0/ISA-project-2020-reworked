@@ -5,8 +5,10 @@ In the folder called "old" there is an older C source code that is not refactore
 
 ## How to run this project
 
-`cd reworked`
-`make`
-`./sslsniff -r testFiles/seznam.pcapng `
+```
+$cd reworked
+$make
+$./sslsniff -r testFiles/seznam.pcapng 
+```
 
 Points: 17/20
